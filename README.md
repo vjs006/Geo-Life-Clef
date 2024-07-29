@@ -10,3 +10,6 @@ go to https://www.kaggle.com/competitions/geolifeclef-2024/data
 2. Open the dataset in the above given link.
 3. Create a new notebook there, and import the downloaded .ipynb file.
 4. Run the notebook, and it will give the required results.
+
+or
+Just view the ipynb file to check the results directly.
