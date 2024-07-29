@@ -12,4 +12,5 @@ go to https://www.kaggle.com/competitions/geolifeclef-2024/data
 4. Run the notebook, and it will give the required results.
 
 or
-Just view the ipynb file to check the results directly.
+
+Just view the submission.csv file which is the final output file.
